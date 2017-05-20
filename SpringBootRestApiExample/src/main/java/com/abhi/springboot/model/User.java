@@ -1,4 +1,4 @@
-package com.websystique.springboot.model;
+package com.abhi.springboot.model;
 	
 public class User {
 

@@ -4,8 +4,9 @@ import java.net.URI;
 import java.util.LinkedHashMap;
 import java.util.List;
 
-import com.websystique.springboot.model.User;
 import org.springframework.web.client.RestTemplate;
+
+import com.abhi.springboot.model.User;
  
 
 public class SpringBootRestTestClient {

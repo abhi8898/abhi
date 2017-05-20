@@ -1,4 +1,4 @@
-package com.websystique.springboot.service;
+package com.abhi.springboot.service;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.stereotype.Service;
 
-import com.websystique.springboot.model.User;
+import com.abhi.springboot.model.User;
 
 
 

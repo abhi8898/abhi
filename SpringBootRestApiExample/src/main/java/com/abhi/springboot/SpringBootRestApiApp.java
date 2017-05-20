@@ -1,10 +1,10 @@
-package com.websystique.springboot;
+package com.abhi.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-@SpringBootApplication(scanBasePackages={"com.websystique.springboot"})// same as @Configuration @EnableAutoConfiguration @ComponentScan combined
+@SpringBootApplication(scanBasePackages={"com.abhi.springboot"})// same as @Configuration @EnableAutoConfiguration @ComponentScan combined
 public class SpringBootRestApiApp {
 
 	public static void main(String[] args) {
